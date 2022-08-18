@@ -16,21 +16,3 @@ I inspire Japanese Websites
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   
 </div>
-
-### 🤔 I’m looking for help with
-
-- Sketching with cool duds
-
-### 📫 How to reach me
-
-<div display="flex">
-  <a href="#">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white/">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Medium"/>
-  </a>
-</div>
