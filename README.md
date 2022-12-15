@@ -1,7 +1,3 @@
-  <div align="center">
-    <img class="img" src="https://github-readme-stats.vercel.app/api?username=areshosu&theme=radical&layout=tokyonight"/>
-  </div>
-      <br><br>
 <div display="flex" align="center">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue JS"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
